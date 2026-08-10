@@ -1,0 +1,29 @@
+name: Daily leaderboard snapshot
+
+on:
+  schedule:
+    # 00:00 UTC = 2:00 AM CEST (Central European Summer Time, UTC+2).
+    # Czech clocks fall back to CET (UTC+1) around late October, at which
+    # point 2:00 AM local becomes 01:00 UTC -- update the line below when
+    # that happens (or add a second cron line for winter and disable
+    # whichever isn't current).
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}  # lets you trigger a snapshot manually from the Actions tab
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run snapshot script
+        run: python3 snapshot.py --top 150
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snapshots/
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Daily snapshot $(date -u +%Y-%m-%d)"
+          git push
