@@ -1,10 +1,5 @@
 {
-  "takenAt": "2026-08-11T04:51:16.510522+00:00",
-  "season": {
-    "startsAt": 1786406400,
-    "endsAt": 1788048000,
-    "number": 11
-  },
+  "takenAt": "2026-08-11T07:32:55.639631+00:00",
   "count": 150,
   "players": [
     {
@@ -63,75 +58,75 @@
     },
     {
       "rank": 10,
+      "uuid": "be4ad7e999e14a74974d47ac650062a3",
+      "nickname": "bbiddd",
+      "eloRate": 2373
+    },
+    {
+      "rank": 11,
       "uuid": "4cf401d7b9474756b06a653867d22fca",
       "nickname": "BadGamer",
       "eloRate": 2367
     },
     {
-      "rank": 11,
+      "rank": 12,
       "uuid": "bc80af38933f4ae19b0494681a54422b",
       "nickname": "Ancoboyy",
       "eloRate": 2356
     },
     {
-      "rank": 12,
+      "rank": 13,
       "uuid": "bbd1dbd2f3ed4c43b62fc7572229ee61",
       "nickname": "romuxii",
       "eloRate": 2344
     },
     {
-      "rank": 13,
+      "rank": 14,
       "uuid": "a5d83ff042164ff1b862dedc118c1dae",
       "nickname": "steez",
       "eloRate": 2328
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "uuid": "bdb7f407200d4882b78e656ca161bddf",
+      "nickname": "sylvie0616",
+      "eloRate": 2324
+    },
+    {
+      "rank": 15,
       "uuid": "cdf98ee293f3483fa3890bb3582dbda3",
       "nickname": "NoHacsJustRoblox",
       "eloRate": 2324
     },
     {
-      "rank": 15,
-      "uuid": "be4ad7e999e14a74974d47ac650062a3",
-      "nickname": "bbiddd",
-      "eloRate": 2321
-    },
-    {
-      "rank": 16,
-      "uuid": "2ef2bfed3d084649b56290328970ace9",
-      "nickname": "nahhann",
-      "eloRate": 2319
-    },
-    {
-      "rank": 16,
-      "uuid": "bdb7f407200d4882b78e656ca161bddf",
-      "nickname": "sylvie0616",
-      "eloRate": 2319
-    },
-    {
-      "rank": 18,
+      "rank": 17,
       "uuid": "9a8e24df4c8549d696a6951da84fa5c4",
       "nickname": "Feinberg",
       "eloRate": 2316
     },
     {
-      "rank": 19,
+      "rank": 18,
       "uuid": "388533d5a2ad4b349a31db4738670a4b",
       "nickname": "v_strid",
       "eloRate": 2313
     },
     {
-      "rank": 20,
+      "rank": 19,
       "uuid": "2fe70934e7be458dba747c4ac830391c",
       "nickname": "nhb_",
       "eloRate": 2309
     },
     {
-      "rank": 21,
+      "rank": 20,
       "uuid": "734a1c6118754829acc234135470152c",
       "nickname": "yeopgihoney",
       "eloRate": 2301
+    },
+    {
+      "rank": 21,
+      "uuid": "2ef2bfed3d084649b56290328970ace9",
+      "nickname": "nahhann",
+      "eloRate": 2300
     },
     {
       "rank": 22,
@@ -261,15 +256,15 @@
     },
     {
       "rank": 43,
-      "uuid": "d1718c79c34e4bce93cd688ac5254b58",
-      "nickname": "cornflakesmcsr",
-      "eloRate": 2160
-    },
-    {
-      "rank": 44,
       "uuid": "5ee577fdc1af45d3a6fb3e086cc293fb",
       "nickname": "Ranik_",
       "eloRate": 2158
+    },
+    {
+      "rank": 44,
+      "uuid": "d1718c79c34e4bce93cd688ac5254b58",
+      "nickname": "cornflakesmcsr",
+      "eloRate": 2155
     },
     {
       "rank": 45,
@@ -279,39 +274,39 @@
     },
     {
       "rank": 46,
+      "uuid": "939ddf85303441de901d60bfa4109318",
+      "nickname": "thecamo6",
+      "eloRate": 2153
+    },
+    {
+      "rank": 47,
       "uuid": "c0ee21f8d5904827b57349507ae2721b",
       "nickname": "hsbi",
       "eloRate": 2147
     },
     {
-      "rank": 47,
+      "rank": 48,
       "uuid": "048de51800794a208de7f01652513c32",
       "nickname": "SocratesDisciple",
       "eloRate": 2141
     },
     {
-      "rank": 48,
+      "rank": 49,
       "uuid": "b516d1d18261467bbb6f447f0c111be7",
       "nickname": "Gabryll",
       "eloRate": 2139
     },
     {
-      "rank": 49,
+      "rank": 50,
       "uuid": "849c693ddbd74a39b7d7d2025667afa6",
       "nickname": "karatebaby_",
       "eloRate": 2134
     },
     {
-      "rank": 50,
+      "rank": 51,
       "uuid": "dacf61a7b4f74f9cb83512d7f2fe88a9",
       "nickname": "Birdeyyy",
       "eloRate": 2132
-    },
-    {
-      "rank": 51,
-      "uuid": "939ddf85303441de901d60bfa4109318",
-      "nickname": "thecamo6",
-      "eloRate": 2124
     },
     {
       "rank": 52,
@@ -357,63 +352,63 @@
     },
     {
       "rank": 59,
+      "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
+      "nickname": "HDMICables",
+      "eloRate": 2098
+    },
+    {
+      "rank": 60,
       "uuid": "0b164a03002048d3955715422179eedf",
       "nickname": "KenanKardes",
       "eloRate": 2084
     },
     {
-      "rank": 60,
+      "rank": 61,
       "uuid": "ea2b3799645743df906350b7110d21e7",
       "nickname": "asteroid20993",
       "eloRate": 2081
     },
     {
-      "rank": 61,
+      "rank": 62,
       "uuid": "77b6cebc87354356aa060eed67751f61",
       "nickname": "Obotron",
       "eloRate": 2080
     },
     {
-      "rank": 62,
+      "rank": 63,
       "uuid": "9589914cf31a420bbcb07cd0768eec28",
       "nickname": "_Pasha1337_",
       "eloRate": 2079
     },
     {
       "rank": 63,
-      "uuid": "0c3cc22849a343b0964a89ac842fa3ca",
-      "nickname": "HDMICables",
-      "eloRate": 2078
+      "uuid": "f0103fdd182548828ba66883fdd05214",
+      "nickname": "Magmania",
+      "eloRate": 2079
     },
     {
-      "rank": 64,
+      "rank": 65,
       "uuid": "eb34042d794c4fd0aaac2fbb9c5ee0f8",
       "nickname": "Big_Wazza69",
       "eloRate": 2076
     },
     {
-      "rank": 65,
-      "uuid": "97d59e1daaa74e4094fff1c47cd091c2",
-      "nickname": "pigswitch",
-      "eloRate": 2075
-    },
-    {
-      "rank": 65,
-      "uuid": "64858295eb754646b03caead840391a2",
-      "nickname": "Casssual",
-      "eloRate": 2075
-    },
-    {
-      "rank": 67,
+      "rank": 66,
       "uuid": "d0a684fdcbe445d5abb39990ae1cfc3a",
       "nickname": "danterus",
       "eloRate": 2073
     },
     {
-      "rank": 68,
+      "rank": 67,
       "uuid": "fe6771646c5d43c1b713023fb69c10c6",
       "nickname": "SammmyG",
       "eloRate": 2071
+    },
+    {
+      "rank": 68,
+      "uuid": "64858295eb754646b03caead840391a2",
+      "nickname": "Casssual",
+      "eloRate": 2070
     },
     {
       "rank": 69,
@@ -488,28 +483,28 @@
       "eloRate": 2044
     },
     {
-      "rank": 80,
-      "uuid": "8b6de3393be345fdb8dcf0959f42f457",
-      "nickname": "Marlowww_IsGOAT",
-      "eloRate": 2044
-    },
-    {
-      "rank": 82,
-      "uuid": "f0103fdd182548828ba66883fdd05214",
-      "nickname": "Magmania",
-      "eloRate": 2043
-    },
-    {
-      "rank": 83,
+      "rank": 81,
       "uuid": "d10be6f072a34e069882ae04bfe60c98",
       "nickname": "Unknwonc",
       "eloRate": 2041
     },
     {
-      "rank": 84,
+      "rank": 82,
+      "uuid": "8b6de3393be345fdb8dcf0959f42f457",
+      "nickname": "Marlowww_IsGOAT",
+      "eloRate": 2039
+    },
+    {
+      "rank": 83,
       "uuid": "0478fbcaf4da4cf983e1be6d6e11678c",
       "nickname": "_KrakerS",
       "eloRate": 2038
+    },
+    {
+      "rank": 84,
+      "uuid": "71c9bd85da3549c28e70e981debcd40e",
+      "nickname": "pplazzz",
+      "eloRate": 2037
     },
     {
       "rank": 85,
@@ -539,13 +534,13 @@
       "rank": 89,
       "uuid": "083f99056a5c4503af326c23bcf8dafe",
       "nickname": "benemies",
-      "eloRate": 2034
+      "eloRate": 2029
     },
     {
       "rank": 90,
-      "uuid": "5b0a001b1fb4484f97c895a77ce21ffa",
-      "nickname": "12BrainCells",
-      "eloRate": 2030
+      "uuid": "97d59e1daaa74e4094fff1c47cd091c2",
+      "nickname": "pigswitch",
+      "eloRate": 2026
     },
     {
       "rank": 91,
@@ -554,55 +549,55 @@
       "eloRate": 2024
     },
     {
-      "rank": 91,
-      "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
-      "nickname": "dandannyboy",
-      "eloRate": 2024
-    },
-    {
-      "rank": 93,
+      "rank": 92,
       "uuid": "728fdcab24b249b686c081a7fc53176e",
       "nickname": "ContraVz",
       "eloRate": 2019
     },
     {
-      "rank": 94,
+      "rank": 93,
       "uuid": "fdff6a3e88054664974dbcd30583fe81",
       "nickname": "Finnitzko",
       "eloRate": 2018
     },
     {
-      "rank": 94,
+      "rank": 93,
       "uuid": "b140bbd0317d4eba89d34288f1b8f0c7",
       "nickname": "amariyy",
       "eloRate": 2018
     },
     {
-      "rank": 96,
+      "rank": 95,
       "uuid": "b0dea0d890de4eecb781481130c3c1d1",
       "nickname": "Mixray_",
       "eloRate": 2017
     },
     {
-      "rank": 97,
+      "rank": 96,
       "uuid": "c9f3dc334bb84708911c611e94751b5a",
       "nickname": "poopiefart13",
       "eloRate": 2016
     },
     {
-      "rank": 98,
+      "rank": 97,
+      "uuid": "d7d0b271136647fea7398a444ab51c13",
+      "nickname": "JustAltoid",
+      "eloRate": 2012
+    },
+    {
+      "rank": 97,
       "uuid": "a888602136ee48208516c4f7960ba997",
       "nickname": "1viewerrr",
       "eloRate": 2012
     },
     {
-      "rank": 98,
+      "rank": 97,
       "uuid": "85fd62c21c094f1e8fa322d997b46ef2",
       "nickname": "gothy666",
       "eloRate": 2012
     },
     {
-      "rank": 98,
+      "rank": 97,
       "uuid": "afee11f6ce2f4c6ab25a3b011127e71d",
       "nickname": "ItsNamii",
       "eloRate": 2012
@@ -650,76 +645,76 @@
       "eloRate": 2003
     },
     {
-      "rank": 108,
+      "rank": 107,
+      "uuid": "3051439345e34084ae67ec07d5fcb163",
+      "nickname": "LawnMobius",
+      "eloRate": 2003
+    },
+    {
+      "rank": 109,
       "uuid": "3fa40d15dadb46368aa72bc4827dae73",
       "nickname": "staremc",
       "eloRate": 2002
     },
     {
-      "rank": 109,
+      "rank": 110,
       "uuid": "817a3f2e92da42ab89c64a787ce16d28",
       "nickname": "Voxio",
       "eloRate": 2001
     },
     {
-      "rank": 109,
+      "rank": 110,
       "uuid": "0dd89d0a88244af69877bee47153db3a",
       "nickname": "Haaons_",
       "eloRate": 2001
     },
     {
-      "rank": 111,
+      "rank": 112,
       "uuid": "ddf4f475da214605b5168ce4794b9ec0",
       "nickname": "N4tria",
       "eloRate": 2000
     },
     {
-      "rank": 112,
+      "rank": 113,
       "uuid": "ef0c8ab50e8541e5a18e94373d409f47",
       "nickname": "Tadanoisikoro",
       "eloRate": 1997
     },
     {
-      "rank": 113,
+      "rank": 114,
       "uuid": "addd890764404097b3f12acdde2adf33",
       "nickname": "_Hypn0tic",
       "eloRate": 1994
     },
     {
-      "rank": 114,
+      "rank": 115,
       "uuid": "8b00d92c3053439c941832c0e9031a83",
       "nickname": "Bartorino",
       "eloRate": 1992
     },
     {
-      "rank": 115,
+      "rank": 116,
       "uuid": "fe10b6edfc3a460a83d637fc8e008751",
       "nickname": "Mitthui",
       "eloRate": 1991
     },
     {
-      "rank": 116,
+      "rank": 117,
       "uuid": "75ffe21720ed4852a9e18fd44f2bbfd1",
       "nickname": "rurururuuururuu",
       "eloRate": 1989
     },
     {
-      "rank": 117,
+      "rank": 118,
       "uuid": "3910d98bea254b488a10d6e91e469f7e",
       "nickname": "dwoh",
       "eloRate": 1985
     },
     {
-      "rank": 118,
+      "rank": 119,
       "uuid": "19d08db54e124602bbfbd140aa984e05",
       "nickname": "Squirrelzh",
       "eloRate": 1982
-    },
-    {
-      "rank": 119,
-      "uuid": "f2e05ad464b54d288fa18da14e9a2786",
-      "nickname": "LEC666888",
-      "eloRate": 1978
     },
     {
       "rank": 120,
@@ -740,31 +735,31 @@
       "eloRate": 1966
     },
     {
-      "rank": 123,
+      "rank": 122,
+      "uuid": "2e321ee42ca54b26b5e8484b959478f0",
+      "nickname": "Dubbinski",
+      "eloRate": 1966
+    },
+    {
+      "rank": 124,
       "uuid": "6ddcd037dd4048e8804d0f99fa1cf4c6",
       "nickname": "Ale267",
       "eloRate": 1964
     },
     {
-      "rank": 124,
+      "rank": 125,
       "uuid": "fb2bd99d6f664e7b96cc6a24834b9a76",
       "nickname": "javierixmonfan",
       "eloRate": 1962
     },
     {
-      "rank": 125,
+      "rank": 126,
       "uuid": "c7802cb7c30c47aabc1a7ec790ff2260",
       "nickname": "iKme_",
       "eloRate": 1960
     },
     {
-      "rank": 126,
-      "uuid": "d7d0b271136647fea7398a444ab51c13",
-      "nickname": "JustAltoid",
-      "eloRate": 1958
-    },
-    {
-      "rank": 126,
+      "rank": 127,
       "uuid": "97559a8303d44690b85db9e1e1f6764f",
       "nickname": "shrddr",
       "eloRate": 1958
@@ -807,9 +802,9 @@
     },
     {
       "rank": 134,
-      "uuid": "71c9bd85da3549c28e70e981debcd40e",
-      "nickname": "pplazzz",
-      "eloRate": 1942
+      "uuid": "e4808bc3e1e347988cbb59b55d723e0f",
+      "nickname": "dandannyboy",
+      "eloRate": 1943
     },
     {
       "rank": 135,
@@ -825,33 +820,33 @@
     },
     {
       "rank": 137,
+      "uuid": "084b148c356844e68f45591c4afa9ea4",
+      "nickname": "Vintex0",
+      "eloRate": 1930
+    },
+    {
+      "rank": 138,
       "uuid": "7844abd0972f4a76a6d557b2107ca9dd",
       "nickname": "VojtaH007",
       "eloRate": 1927
     },
     {
-      "rank": 138,
+      "rank": 139,
       "uuid": "2988fcfbc6b141a497faa915e13b6592",
       "nickname": "AutomattPLUS",
       "eloRate": 1925
     },
     {
-      "rank": 139,
+      "rank": 140,
       "uuid": "1f844c3aedb34559b537f45771a7a61d",
       "nickname": "Bodek",
       "eloRate": 1924
     },
     {
-      "rank": 139,
+      "rank": 140,
       "uuid": "373fddb563124e13b043ea9c571595cd",
       "nickname": "FuzzKing",
       "eloRate": 1924
-    },
-    {
-      "rank": 141,
-      "uuid": "4f3e7905554345698e41f88caa4c088e",
-      "nickname": "cofesho",
-      "eloRate": 1922
     },
     {
       "rank": 142,
@@ -878,34 +873,34 @@
       "eloRate": 1919
     },
     {
-      "rank": 144,
-      "uuid": "2e321ee42ca54b26b5e8484b959478f0",
-      "nickname": "Dubbinski",
-      "eloRate": 1919
-    },
-    {
-      "rank": 147,
+      "rank": 146,
       "uuid": "79dab6610bb34d6d8c6f8348bed3620e",
       "nickname": "Pi1Mu9353",
       "eloRate": 1918
     },
     {
-      "rank": 148,
+      "rank": 147,
       "uuid": "7447dd83b8bc4b7fb97d3ec316f529dc",
       "nickname": "Kxpow",
       "eloRate": 1914
     },
     {
-      "rank": 149,
+      "rank": 148,
       "uuid": "d41f0f3caebe45e1bc6a380fedf54ca9",
       "nickname": "boosterruns",
       "eloRate": 1913
     },
     {
-      "rank": 150,
+      "rank": 149,
       "uuid": "ed0605bc88fa411f8f1d530323efd867",
       "nickname": "huhPrince",
       "eloRate": 1912
+    },
+    {
+      "rank": 150,
+      "uuid": "3e39d881fa1f46e993885fc364c6c1ab",
+      "nickname": "11567",
+      "eloRate": 1907
     }
   ]
 }
