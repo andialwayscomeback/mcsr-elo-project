@@ -1,0 +1,1698 @@
+[
+  {
+    "match_id": 12719433,
+    "date": "2026-08-24T14:25:18+00:00",
+    "winner": "Gabryll",
+    "winner_rank_before": 32,
+    "winner_elo_gain": 30,
+    "loser": "BlazeMind",
+    "loser_rank_before": 5,
+    "rank_gap": 27,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855143341"
+    ]
+  },
+  {
+    "match_id": 12730781,
+    "date": "2026-08-24T21:09:03+00:00",
+    "winner": "poopiefart13",
+    "winner_rank_before": 47,
+    "winner_elo_gain": 30,
+    "loser": "Feinberg",
+    "loser_rank_before": 7,
+    "rank_gap": 40,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855244066"
+    ]
+  },
+  {
+    "match_id": 12729865,
+    "date": "2026-08-24T20:34:28+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 29,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 32,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855202519"
+    ]
+  },
+  {
+    "match_id": 12711285,
+    "date": "2026-08-24T07:55:48+00:00",
+    "winner": "Ancoboyy",
+    "winner_rank_before": 17,
+    "winner_elo_gain": 28,
+    "loser": "lowk3y_",
+    "loser_rank_before": 2,
+    "rank_gap": 15,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854992313",
+      "https://www.twitch.tv/videos/2854933631"
+    ]
+  },
+  {
+    "match_id": 12709956,
+    "date": "2026-08-24T06:26:34+00:00",
+    "winner": "BadGamer",
+    "winner_rank_before": 4,
+    "winner_elo_gain": 28,
+    "loser": "lowk3y_",
+    "loser_rank_before": 2,
+    "rank_gap": 2,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854933631",
+      "https://www.twitch.tv/videos/2854935287"
+    ]
+  },
+  {
+    "match_id": 12722340,
+    "date": "2026-08-24T16:06:04+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 28,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 32,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855202519"
+    ]
+  },
+  {
+    "match_id": 12733832,
+    "date": "2026-08-24T23:10:16+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 28,
+    "loser": "Feinberg",
+    "loser_rank_before": 7,
+    "rank_gap": 28,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855244066"
+    ]
+  },
+  {
+    "match_id": 12713345,
+    "date": "2026-08-24T10:03:40+00:00",
+    "winner": "sevensix_",
+    "winner_rank_before": 69,
+    "winner_elo_gain": 28,
+    "loser": "bing_pigs",
+    "loser_rank_before": 27,
+    "rank_gap": 42,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854994698"
+    ]
+  },
+  {
+    "match_id": 12729116,
+    "date": "2026-08-24T20:06:48+00:00",
+    "winner": "cofesho",
+    "winner_rank_before": 66,
+    "winner_elo_gain": 28,
+    "loser": "DARVY__X1",
+    "loser_rank_before": 28,
+    "rank_gap": 38,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780",
+      "https://www.twitch.tv/videos/2855352051"
+    ]
+  },
+  {
+    "match_id": 12737294,
+    "date": "2026-08-25T01:42:33+00:00",
+    "winner": "sanjinhu",
+    "winner_rank_before": 80,
+    "winner_elo_gain": 28,
+    "loser": "v_strid",
+    "loser_rank_before": 35,
+    "rank_gap": 45,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12720903,
+    "date": "2026-08-24T15:16:11+00:00",
+    "winner": "Emillk",
+    "winner_rank_before": 143,
+    "winner_elo_gain": 28,
+    "loser": "dinonuggieboi",
+    "loser_rank_before": 59,
+    "rank_gap": 84,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855120199",
+      "https://www.twitch.tv/videos/2855126797"
+    ]
+  },
+  {
+    "match_id": 12710649,
+    "date": "2026-08-24T07:13:03+00:00",
+    "winner": "MaKiiiiii1106",
+    "winner_rank_before": 211,
+    "winner_elo_gain": 28,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 124,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854941440"
+    ]
+  },
+  {
+    "match_id": 12710118,
+    "date": "2026-08-24T06:36:30+00:00",
+    "winner": "bbiddd",
+    "winner_rank_before": 37,
+    "winner_elo_gain": 27,
+    "loser": "lowk3y_",
+    "loser_rank_before": 2,
+    "rank_gap": 35,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854933631",
+      "https://www.twitch.tv/videos/2854962217"
+    ]
+  },
+  {
+    "match_id": 12709446,
+    "date": "2026-08-24T05:53:49+00:00",
+    "winner": "bing_pigs",
+    "winner_rank_before": 27,
+    "winner_elo_gain": 27,
+    "loser": "lowk3y_",
+    "loser_rank_before": 2,
+    "rank_gap": 25,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854933631"
+    ]
+  },
+  {
+    "match_id": 12708997,
+    "date": "2026-08-24T05:24:24+00:00",
+    "winner": "BeefSalad",
+    "winner_rank_before": 22,
+    "winner_elo_gain": 27,
+    "loser": "lowk3y_",
+    "loser_rank_before": 2,
+    "rank_gap": 20,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854933631",
+      "https://www.twitch.tv/videos/2854745719"
+    ]
+  },
+  {
+    "match_id": 12735069,
+    "date": "2026-08-25T00:02:44+00:00",
+    "winner": "doogile",
+    "winner_rank_before": 18,
+    "winner_elo_gain": 27,
+    "loser": "Feinberg",
+    "loser_rank_before": 7,
+    "rank_gap": 11,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855244066",
+      "https://www.twitch.tv/videos/2855439663"
+    ]
+  },
+  {
+    "match_id": 12730414,
+    "date": "2026-08-24T20:55:01+00:00",
+    "winner": "Frolde",
+    "winner_rank_before": 65,
+    "winner_elo_gain": 27,
+    "loser": "DARVY__X1",
+    "loser_rank_before": 28,
+    "rank_gap": 37,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855448186"
+    ]
+  },
+  {
+    "match_id": 12728811,
+    "date": "2026-08-24T19:55:15+00:00",
+    "winner": "poopiefart13",
+    "winner_rank_before": 47,
+    "winner_elo_gain": 27,
+    "loser": "DARVY__X1",
+    "loser_rank_before": 28,
+    "rank_gap": 19,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855352051"
+    ]
+  },
+  {
+    "match_id": 12719259,
+    "date": "2026-08-24T14:18:44+00:00",
+    "winner": "AstraF",
+    "winner_rank_before": 102,
+    "winner_elo_gain": 27,
+    "loser": "okshey",
+    "loser_rank_before": 31,
+    "rank_gap": 71,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855155156",
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12728174,
+    "date": "2026-08-24T19:33:13+00:00",
+    "winner": "temp_gd",
+    "winner_rank_before": 191,
+    "winner_elo_gain": 27,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 125,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12709092,
+    "date": "2026-08-24T05:30:41+00:00",
+    "winner": "MaKiiiiii1106",
+    "winner_rank_before": 211,
+    "winner_elo_gain": 27,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 124,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854941440"
+    ]
+  },
+  {
+    "match_id": 12726800,
+    "date": "2026-08-24T18:43:59+00:00",
+    "winner": "CookieAddicts",
+    "winner_rank_before": 263,
+    "winner_elo_gain": 27,
+    "loser": "rekrap2",
+    "loser_rank_before": 125,
+    "rank_gap": 138,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855320100"
+    ]
+  },
+  {
+    "match_id": 12736374,
+    "date": "2026-08-25T01:00:55+00:00",
+    "winner": "Feinberg",
+    "winner_rank_before": 7,
+    "winner_elo_gain": 26,
+    "loser": "Infume",
+    "loser_rank_before": 1,
+    "rank_gap": 6,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855529054",
+      "https://www.twitch.tv/videos/2855244066"
+    ]
+  },
+  {
+    "match_id": 12731014,
+    "date": "2026-08-24T21:17:21+00:00",
+    "winner": "doogile",
+    "winner_rank_before": 18,
+    "winner_elo_gain": 26,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 15,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855202519",
+      "https://www.twitch.tv/videos/2855439663"
+    ]
+  },
+  {
+    "match_id": 12721933,
+    "date": "2026-08-24T15:51:20+00:00",
+    "winner": "woofdoggo_",
+    "winner_rank_before": 16,
+    "winner_elo_gain": 26,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 13,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855202519",
+      "https://www.twitch.tv/videos/2855175864"
+    ]
+  },
+  {
+    "match_id": 12732848,
+    "date": "2026-08-24T22:27:23+00:00",
+    "winner": "Voxio",
+    "winner_rank_before": 147,
+    "winner_elo_gain": 26,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 81,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12732011,
+    "date": "2026-08-24T21:55:13+00:00",
+    "winner": "Finnitzko",
+    "winner_rank_before": 135,
+    "winner_elo_gain": 26,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 69,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12734821,
+    "date": "2026-08-24T23:51:57+00:00",
+    "winner": "sanjinhu",
+    "winner_rank_before": 80,
+    "winner_elo_gain": 26,
+    "loser": "thecamo6",
+    "loser_rank_before": 68,
+    "rank_gap": 12,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12727485,
+    "date": "2026-08-24T19:06:18+00:00",
+    "winner": "Alpha_1644",
+    "winner_rank_before": 174,
+    "winner_elo_gain": 26,
+    "loser": "cmfn1",
+    "loser_rank_before": 89,
+    "rank_gap": 85,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855300524"
+    ]
+  },
+  {
+    "match_id": 12717534,
+    "date": "2026-08-24T13:14:44+00:00",
+    "winner": "L0ckdawn",
+    "winner_rank_before": 113,
+    "winner_elo_gain": 26,
+    "loser": "AstraF",
+    "loser_rank_before": 102,
+    "rank_gap": 11,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12717085,
+    "date": "2026-08-24T12:58:06+00:00",
+    "winner": "pplazzz",
+    "winner_rank_before": 162,
+    "winner_elo_gain": 26,
+    "loser": "AstraF",
+    "loser_rank_before": 102,
+    "rank_gap": 60,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12715515,
+    "date": "2026-08-24T11:49:06+00:00",
+    "winner": "Bartorino",
+    "winner_rank_before": 138,
+    "winner_elo_gain": 26,
+    "loser": "AstraF",
+    "loser_rank_before": 102,
+    "rank_gap": 36,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855056069"
+    ]
+  },
+  {
+    "match_id": 12727031,
+    "date": "2026-08-24T18:51:23+00:00",
+    "winner": "Zbom",
+    "winner_rank_before": 266,
+    "winner_elo_gain": 26,
+    "loser": "2welt",
+    "loser_rank_before": 109,
+    "rank_gap": 157,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855263835"
+    ]
+  },
+  {
+    "match_id": 12726392,
+    "date": "2026-08-24T18:30:35+00:00",
+    "winner": "temp_gd",
+    "winner_rank_before": 191,
+    "winner_elo_gain": 26,
+    "loser": "rekrap2",
+    "loser_rank_before": 125,
+    "rank_gap": 66,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855320100"
+    ]
+  },
+  {
+    "match_id": 12739052,
+    "date": "2026-08-25T03:07:08+00:00",
+    "winner": "BadGamer",
+    "winner_rank_before": 4,
+    "winner_elo_gain": 25,
+    "loser": "Infume",
+    "loser_rank_before": 1,
+    "rank_gap": 3,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855724689",
+      "https://www.twitch.tv/videos/2855529054"
+    ]
+  },
+  {
+    "match_id": 12721640,
+    "date": "2026-08-24T15:41:45+00:00",
+    "winner": "BadGamer",
+    "winner_rank_before": 4,
+    "winner_elo_gain": 25,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 1,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855154955",
+      "https://www.twitch.tv/videos/2855202519"
+    ]
+  },
+  {
+    "match_id": 12723022,
+    "date": "2026-08-24T16:30:36+00:00",
+    "winner": "Ancoboyy",
+    "winner_rank_before": 17,
+    "winner_elo_gain": 25,
+    "loser": "BadGamer",
+    "loser_rank_before": 4,
+    "rank_gap": 13,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855156501",
+      "https://www.twitch.tv/videos/2855154955"
+    ]
+  },
+  {
+    "match_id": 12735317,
+    "date": "2026-08-25T00:13:57+00:00",
+    "winner": "silverrruns",
+    "winner_rank_before": 14,
+    "winner_elo_gain": 25,
+    "loser": "Feinberg",
+    "loser_rank_before": 7,
+    "rank_gap": 7,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855244066",
+      "https://www.twitch.tv/videos/2855243840"
+    ]
+  },
+  {
+    "match_id": 12736300,
+    "date": "2026-08-25T00:58:14+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 25,
+    "loser": "silverrruns",
+    "loser_rank_before": 14,
+    "rank_gap": 21,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855243840"
+    ]
+  },
+  {
+    "match_id": 12727188,
+    "date": "2026-08-24T18:56:35+00:00",
+    "winner": "okshey",
+    "winner_rank_before": 31,
+    "winner_elo_gain": 25,
+    "loser": "woofdoggo_",
+    "loser_rank_before": 16,
+    "rank_gap": 15,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855175864"
+    ]
+  },
+  {
+    "match_id": 12733556,
+    "date": "2026-08-24T22:58:10+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 25,
+    "loser": "doogile",
+    "loser_rank_before": 18,
+    "rank_gap": 17,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855439663"
+    ]
+  },
+  {
+    "match_id": 12715154,
+    "date": "2026-08-24T11:34:20+00:00",
+    "winner": "pigswitch",
+    "winner_rank_before": 82,
+    "winner_elo_gain": 25,
+    "loser": "Erikfzf",
+    "loser_rank_before": 50,
+    "rank_gap": 32,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855064038"
+    ]
+  },
+  {
+    "match_id": 12736656,
+    "date": "2026-08-25T01:13:31+00:00",
+    "winner": "sanjinhu",
+    "winner_rank_before": 80,
+    "winner_elo_gain": 25,
+    "loser": "Mitthui",
+    "loser_rank_before": 71,
+    "rank_gap": 9,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12710991,
+    "date": "2026-08-24T07:35:37+00:00",
+    "winner": "blobserr",
+    "winner_rank_before": 180,
+    "winner_elo_gain": 25,
+    "loser": "hsbi",
+    "loser_rank_before": 77,
+    "rank_gap": 103,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854937836"
+    ]
+  },
+  {
+    "match_id": 12718478,
+    "date": "2026-08-24T13:50:48+00:00",
+    "winner": "Emillk",
+    "winner_rank_before": 143,
+    "winner_elo_gain": 25,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 56,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855120199"
+    ]
+  },
+  {
+    "match_id": 12710218,
+    "date": "2026-08-24T06:44:59+00:00",
+    "winner": "Starchomper",
+    "winner_rank_before": 304,
+    "winner_elo_gain": 25,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 217,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854941440"
+    ]
+  },
+  {
+    "match_id": 12722857,
+    "date": "2026-08-24T16:24:19+00:00",
+    "winner": "temp_gd",
+    "winner_rank_before": 191,
+    "winner_elo_gain": 25,
+    "loser": "AstraF",
+    "loser_rank_before": 102,
+    "rank_gap": 89,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12714330,
+    "date": "2026-08-24T10:55:44+00:00",
+    "winner": "galaxy1010_w",
+    "winner_rank_before": 350,
+    "winner_elo_gain": 25,
+    "loser": "ItzUser",
+    "loser_rank_before": 133,
+    "rank_gap": 217,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855015062"
+    ]
+  },
+  {
+    "match_id": 12713305,
+    "date": "2026-08-24T10:01:18+00:00",
+    "winner": "Minepro_80",
+    "winner_rank_before": 319,
+    "winner_elo_gain": 25,
+    "loser": "ItzUser",
+    "loser_rank_before": 133,
+    "rank_gap": 186,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855005758"
+    ]
+  },
+  {
+    "match_id": 12722099,
+    "date": "2026-08-24T15:57:17+00:00",
+    "winner": "galaxy1010_w",
+    "winner_rank_before": 350,
+    "winner_elo_gain": 25,
+    "loser": "iluappi",
+    "loser_rank_before": 137,
+    "rank_gap": 213,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855015062"
+    ]
+  },
+  {
+    "match_id": 12723028,
+    "date": "2026-08-24T16:30:43+00:00",
+    "winner": "woofdoggo_",
+    "winner_rank_before": 16,
+    "winner_elo_gain": 24,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 13,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855175864",
+      "https://www.twitch.tv/videos/2855202519"
+    ]
+  },
+  {
+    "match_id": 12722495,
+    "date": "2026-08-24T16:11:15+00:00",
+    "winner": "woofdoggo_",
+    "winner_rank_before": 16,
+    "winner_elo_gain": 24,
+    "loser": "BadGamer",
+    "loser_rank_before": 4,
+    "rank_gap": 12,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855154955",
+      "https://www.twitch.tv/videos/2855175864"
+    ]
+  },
+  {
+    "match_id": 12720460,
+    "date": "2026-08-24T15:00:42+00:00",
+    "winner": "Sadekeppi",
+    "winner_rank_before": 20,
+    "winner_elo_gain": 24,
+    "loser": "BadGamer",
+    "loser_rank_before": 4,
+    "rank_gap": 16,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855154955",
+      "https://www.twitch.tv/videos/2855165849"
+    ]
+  },
+  {
+    "match_id": 12732210,
+    "date": "2026-08-24T22:03:20+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 24,
+    "loser": "doogile",
+    "loser_rank_before": 18,
+    "rank_gap": 17,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855439663"
+    ]
+  },
+  {
+    "match_id": 12709817,
+    "date": "2026-08-24T06:16:54+00:00",
+    "winner": "bbiddd",
+    "winner_rank_before": 37,
+    "winner_elo_gain": 24,
+    "loser": "bing_pigs",
+    "loser_rank_before": 27,
+    "rank_gap": 10,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854962217"
+    ]
+  },
+  {
+    "match_id": 12732966,
+    "date": "2026-08-24T22:32:19+00:00",
+    "winner": "ILuvCobblestone",
+    "winner_rank_before": 117,
+    "winner_elo_gain": 24,
+    "loser": "poopiefart13",
+    "loser_rank_before": 47,
+    "rank_gap": 70,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855493213"
+    ]
+  },
+  {
+    "match_id": 12720042,
+    "date": "2026-08-24T14:47:03+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 24,
+    "loser": "Frolde",
+    "loser_rank_before": 65,
+    "rank_gap": 117,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12730681,
+    "date": "2026-08-24T21:05:21+00:00",
+    "winner": "Voxio",
+    "winner_rank_before": 147,
+    "winner_elo_gain": 24,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 81,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12728812,
+    "date": "2026-08-24T19:55:17+00:00",
+    "winner": "2welt",
+    "winner_rank_before": 109,
+    "winner_elo_gain": 24,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 43,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12734483,
+    "date": "2026-08-24T23:37:44+00:00",
+    "winner": "temp_gd",
+    "winner_rank_before": 191,
+    "winner_elo_gain": 24,
+    "loser": "sanjinhu",
+    "loser_rank_before": 80,
+    "rank_gap": 111,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12709884,
+    "date": "2026-08-24T06:21:25+00:00",
+    "winner": "skylewl",
+    "winner_rank_before": 135,
+    "winner_elo_gain": 24,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 48,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854941440"
+    ]
+  },
+  {
+    "match_id": 12707213,
+    "date": "2026-08-24T03:37:46+00:00",
+    "winner": "caqen",
+    "winner_rank_before": 166,
+    "winner_elo_gain": 24,
+    "loser": "_Hypn0tic",
+    "loser_rank_before": 109,
+    "rank_gap": 57,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854834983"
+    ]
+  },
+  {
+    "match_id": 12717042,
+    "date": "2026-08-24T12:56:34+00:00",
+    "winner": "xFray_",
+    "winner_rank_before": 113,
+    "winner_elo_gain": 24,
+    "loser": "2welt",
+    "loser_rank_before": 109,
+    "rank_gap": 4,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855076039"
+    ]
+  },
+  {
+    "match_id": 12734506,
+    "date": "2026-08-24T23:38:31+00:00",
+    "winner": "nolqndo",
+    "winner_rank_before": 169,
+    "winner_elo_gain": 24,
+    "loser": "VampishWheat",
+    "loser_rank_before": 131,
+    "rank_gap": 38,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855449215"
+    ]
+  },
+  {
+    "match_id": 12735468,
+    "date": "2026-08-25T00:20:57+00:00",
+    "winner": "nolqndo",
+    "winner_rank_before": 169,
+    "winner_elo_gain": 24,
+    "loser": "skylewl",
+    "loser_rank_before": 135,
+    "rank_gap": 34,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855449215"
+    ]
+  },
+  {
+    "match_id": 12733450,
+    "date": "2026-08-24T22:54:00+00:00",
+    "winner": "nolqndo",
+    "winner_rank_before": 169,
+    "winner_elo_gain": 24,
+    "loser": "Voxio",
+    "loser_rank_before": 147,
+    "rank_gap": 22,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855449215"
+    ]
+  },
+  {
+    "match_id": 12732225,
+    "date": "2026-08-24T22:04:00+00:00",
+    "winner": "nolqndo",
+    "winner_rank_before": 169,
+    "winner_elo_gain": 24,
+    "loser": "Voxio",
+    "loser_rank_before": 147,
+    "rank_gap": 22,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855449215"
+    ]
+  },
+  {
+    "match_id": 12734964,
+    "date": "2026-08-24T23:58:26+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 23,
+    "loser": "silverrruns",
+    "loser_rank_before": 14,
+    "rank_gap": 21,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855243840"
+    ]
+  },
+  {
+    "match_id": 12726795,
+    "date": "2026-08-24T18:43:48+00:00",
+    "winner": "kohout135",
+    "winner_rank_before": 19,
+    "winner_elo_gain": 23,
+    "loser": "woofdoggo_",
+    "loser_rank_before": 16,
+    "rank_gap": 3,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855175864"
+    ]
+  },
+  {
+    "match_id": 12733883,
+    "date": "2026-08-24T23:12:32+00:00",
+    "winner": "ANJOUU",
+    "winner_rank_before": 21,
+    "winner_elo_gain": 23,
+    "loser": "doogile",
+    "loser_rank_before": 18,
+    "rank_gap": 3,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855439663"
+    ]
+  },
+  {
+    "match_id": 12714847,
+    "date": "2026-08-24T11:20:08+00:00",
+    "winner": "AstraF",
+    "winner_rank_before": 102,
+    "winner_elo_gain": 23,
+    "loser": "Erikfzf",
+    "loser_rank_before": 50,
+    "rank_gap": 52,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855064038"
+    ]
+  },
+  {
+    "match_id": 12724012,
+    "date": "2026-08-24T17:05:45+00:00",
+    "winner": "cofesho",
+    "winner_rank_before": 66,
+    "winner_elo_gain": 23,
+    "loser": "subdas",
+    "loser_rank_before": 58,
+    "rank_gap": 8,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12737541,
+    "date": "2026-08-25T01:54:30+00:00",
+    "winner": "sanjinhu",
+    "winner_rank_before": 80,
+    "winner_elo_gain": 23,
+    "loser": "lauveer",
+    "loser_rank_before": 63,
+    "rank_gap": 17,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12733174,
+    "date": "2026-08-24T22:41:01+00:00",
+    "winner": "VampishWheat",
+    "winner_rank_before": 131,
+    "winner_elo_gain": 23,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 65,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12724355,
+    "date": "2026-08-24T17:19:33+00:00",
+    "winner": "_Pasha1337_",
+    "winner_rank_before": 87,
+    "winner_elo_gain": 23,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 21,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12735371,
+    "date": "2026-08-25T00:16:19+00:00",
+    "winner": "_zupi",
+    "winner_rank_before": 94,
+    "winner_elo_gain": 23,
+    "loser": "sanjinhu",
+    "loser_rank_before": 80,
+    "rank_gap": 14,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12711135,
+    "date": "2026-08-24T07:45:42+00:00",
+    "winner": "Gon_mcsr",
+    "winner_rank_before": 139,
+    "winner_elo_gain": 23,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 52,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854941440",
+      "https://www.twitch.tv/videos/2854938233"
+    ]
+  },
+  {
+    "match_id": 12735028,
+    "date": "2026-08-25T00:00:45+00:00",
+    "winner": "nolqndo",
+    "winner_rank_before": 169,
+    "winner_elo_gain": 23,
+    "loser": "_zupi",
+    "loser_rank_before": 94,
+    "rank_gap": 75,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855449215"
+    ]
+  },
+  {
+    "match_id": 12721607,
+    "date": "2026-08-24T15:40:42+00:00",
+    "winner": "Emillk",
+    "winner_rank_before": 143,
+    "winner_elo_gain": 23,
+    "loser": "2welt",
+    "loser_rank_before": 109,
+    "rank_gap": 34,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855215395"
+    ]
+  },
+  {
+    "match_id": 12734149,
+    "date": "2026-08-24T23:24:15+00:00",
+    "winner": "Finnitzko",
+    "winner_rank_before": 135,
+    "winner_elo_gain": 23,
+    "loser": "ILuvCobblestone",
+    "loser_rank_before": 117,
+    "rank_gap": 18,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855493213"
+    ]
+  },
+  {
+    "match_id": 12733641,
+    "date": "2026-08-24T23:01:58+00:00",
+    "winner": "VampishWheat",
+    "winner_rank_before": 131,
+    "winner_elo_gain": 23,
+    "loser": "ILuvCobblestone",
+    "loser_rank_before": 117,
+    "rank_gap": 14,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855493213"
+    ]
+  },
+  {
+    "match_id": 12708283,
+    "date": "2026-08-24T04:39:38+00:00",
+    "winner": "caqen",
+    "winner_rank_before": 166,
+    "winner_elo_gain": 23,
+    "loser": "skylewl",
+    "loser_rank_before": 135,
+    "rank_gap": 31,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854834983"
+    ]
+  },
+  {
+    "match_id": 12707065,
+    "date": "2026-08-24T03:29:31+00:00",
+    "winner": "dandannyboy",
+    "winner_rank_before": 206,
+    "winner_elo_gain": 23,
+    "loser": "skylewl",
+    "loser_rank_before": 135,
+    "rank_gap": 71,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854875422"
+    ]
+  },
+  {
+    "match_id": 12723335,
+    "date": "2026-08-24T16:40:39+00:00",
+    "winner": "BadGamer",
+    "winner_rank_before": 4,
+    "winner_elo_gain": 22,
+    "loser": "edcr",
+    "loser_rank_before": 3,
+    "rank_gap": 1,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855154955",
+      "https://www.twitch.tv/videos/2855202519"
+    ]
+  },
+  {
+    "match_id": 12709489,
+    "date": "2026-08-24T05:56:06+00:00",
+    "winner": "bbiddd",
+    "winner_rank_before": 37,
+    "winner_elo_gain": 22,
+    "loser": "BadGamer",
+    "loser_rank_before": 4,
+    "rank_gap": 33,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854935287",
+      "https://www.twitch.tv/videos/2854944133"
+    ]
+  },
+  {
+    "match_id": 12709145,
+    "date": "2026-08-24T05:34:30+00:00",
+    "winner": "bbiddd",
+    "winner_rank_before": 37,
+    "winner_elo_gain": 22,
+    "loser": "BadGamer",
+    "loser_rank_before": 4,
+    "rank_gap": 33,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854935287",
+      "https://www.twitch.tv/videos/2854944133"
+    ]
+  },
+  {
+    "match_id": 12736014,
+    "date": "2026-08-25T00:45:22+00:00",
+    "winner": "silverrruns",
+    "winner_rank_before": 14,
+    "winner_elo_gain": 22,
+    "loser": "Feinberg",
+    "loser_rank_before": 7,
+    "rank_gap": 7,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855243840",
+      "https://www.twitch.tv/videos/2855244066"
+    ]
+  },
+  {
+    "match_id": 12722222,
+    "date": "2026-08-24T16:02:08+00:00",
+    "winner": "Ancoboyy",
+    "winner_rank_before": 17,
+    "winner_elo_gain": 22,
+    "loser": "woofdoggo_",
+    "loser_rank_before": 16,
+    "rank_gap": 1,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855175864",
+      "https://www.twitch.tv/videos/2855156501"
+    ]
+  },
+  {
+    "match_id": 12721047,
+    "date": "2026-08-24T15:21:33+00:00",
+    "winner": "Sadekeppi",
+    "winner_rank_before": 20,
+    "winner_elo_gain": 22,
+    "loser": "woofdoggo_",
+    "loser_rank_before": 16,
+    "rank_gap": 4,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855165849",
+      "https://www.twitch.tv/videos/2855175864"
+    ]
+  },
+  {
+    "match_id": 12720241,
+    "date": "2026-08-24T14:53:51+00:00",
+    "winner": "Ancoboyy",
+    "winner_rank_before": 17,
+    "winner_elo_gain": 22,
+    "loser": "woofdoggo_",
+    "loser_rank_before": 16,
+    "rank_gap": 1,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855175864",
+      "https://www.twitch.tv/videos/2855156501"
+    ]
+  },
+  {
+    "match_id": 12708811,
+    "date": "2026-08-24T05:13:26+00:00",
+    "winner": "bing_pigs",
+    "winner_rank_before": 27,
+    "winner_elo_gain": 22,
+    "loser": "BeefSalad",
+    "loser_rank_before": 22,
+    "rank_gap": 5,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854745719"
+    ]
+  },
+  {
+    "match_id": 12718894,
+    "date": "2026-08-24T14:06:02+00:00",
+    "winner": "Gabryll",
+    "winner_rank_before": 32,
+    "winner_elo_gain": 22,
+    "loser": "okshey",
+    "loser_rank_before": 31,
+    "rank_gap": 1,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855155156",
+      "https://www.twitch.tv/videos/2855143341"
+    ]
+  },
+  {
+    "match_id": 12728460,
+    "date": "2026-08-24T19:43:08+00:00",
+    "winner": "cofesho",
+    "winner_rank_before": 66,
+    "winner_elo_gain": 22,
+    "loser": "poopiefart13",
+    "loser_rank_before": 47,
+    "rank_gap": 19,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855261780"
+    ]
+  },
+  {
+    "match_id": 12717207,
+    "date": "2026-08-24T13:02:56+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 22,
+    "loser": "takachaaaaaaan",
+    "loser_rank_before": 52,
+    "rank_gap": 130,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12736194,
+    "date": "2026-08-25T00:53:31+00:00",
+    "winner": "sanjinhu",
+    "winner_rank_before": 80,
+    "winner_elo_gain": 22,
+    "loser": "cofesho",
+    "loser_rank_before": 66,
+    "rank_gap": 14,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199"
+    ]
+  },
+  {
+    "match_id": 12735921,
+    "date": "2026-08-25T00:41:15+00:00",
+    "winner": "nolqndo",
+    "winner_rank_before": 169,
+    "winner_elo_gain": 22,
+    "loser": "sanjinhu",
+    "loser_rank_before": 80,
+    "rank_gap": 89,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855586199",
+      "https://www.twitch.tv/videos/2855449215"
+    ]
+  },
+  {
+    "match_id": 12728683,
+    "date": "2026-08-24T19:51:03+00:00",
+    "winner": "rekrap2",
+    "winner_rank_before": 125,
+    "winner_elo_gain": 22,
+    "loser": "TheLandSharkJeff",
+    "loser_rank_before": 100,
+    "rank_gap": 25,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855320100"
+    ]
+  },
+  {
+    "match_id": 12723491,
+    "date": "2026-08-24T16:47:10+00:00",
+    "winner": "FuzzKing",
+    "winner_rank_before": 115,
+    "winner_elo_gain": 22,
+    "loser": "AstraF",
+    "loser_rank_before": 102,
+    "rank_gap": 13,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12718502,
+    "date": "2026-08-24T13:51:44+00:00",
+    "winner": "Birdeyyy",
+    "winner_rank_before": 104,
+    "winner_elo_gain": 22,
+    "loser": "AstraF",
+    "loser_rank_before": 102,
+    "rank_gap": 2,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871",
+      "https://www.twitch.tv/videos/2855117588"
+    ]
+  },
+  {
+    "match_id": 12720909,
+    "date": "2026-08-24T15:16:18+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 21,
+    "loser": "Ancoboyy",
+    "loser_rank_before": 17,
+    "rank_gap": 18,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855156501"
+    ]
+  },
+  {
+    "match_id": 12734136,
+    "date": "2026-08-24T23:23:25+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 21,
+    "loser": "doogile",
+    "loser_rank_before": 18,
+    "rank_gap": 17,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855439663"
+    ]
+  },
+  {
+    "match_id": 12719678,
+    "date": "2026-08-24T14:33:46+00:00",
+    "winner": "_Pasha1337_",
+    "winner_rank_before": 87,
+    "winner_elo_gain": 21,
+    "loser": "Pheinberg",
+    "loser_rank_before": 74,
+    "rank_gap": 13,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855130766"
+    ]
+  },
+  {
+    "match_id": 12719063,
+    "date": "2026-08-24T14:12:21+00:00",
+    "winner": "Birdeyyy",
+    "winner_rank_before": 104,
+    "winner_elo_gain": 21,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 17,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117588"
+    ]
+  },
+  {
+    "match_id": 12720545,
+    "date": "2026-08-24T15:03:57+00:00",
+    "winner": "2welt",
+    "winner_rank_before": 109,
+    "winner_elo_gain": 21,
+    "loser": "Birdeyyy",
+    "loser_rank_before": 104,
+    "rank_gap": 5,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117588"
+    ]
+  },
+  {
+    "match_id": 12716680,
+    "date": "2026-08-24T12:40:42+00:00",
+    "winner": "galaxy1010_w",
+    "winner_rank_before": 350,
+    "winner_elo_gain": 21,
+    "loser": "FuzzKing",
+    "loser_rank_before": 115,
+    "rank_gap": 235,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855015062"
+    ]
+  },
+  {
+    "match_id": 12711378,
+    "date": "2026-08-24T08:03:34+00:00",
+    "winner": "blobserr",
+    "winner_rank_before": 180,
+    "winner_elo_gain": 21,
+    "loser": "Gon_mcsr",
+    "loser_rank_before": 139,
+    "rank_gap": 41,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854938233",
+      "https://www.twitch.tv/videos/2854937836"
+    ]
+  },
+  {
+    "match_id": 12711791,
+    "date": "2026-08-24T08:30:32+00:00",
+    "winner": "bing_pigs",
+    "winner_rank_before": 27,
+    "winner_elo_gain": 20,
+    "loser": "Ancoboyy",
+    "loser_rank_before": 17,
+    "rank_gap": 10,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854992313"
+    ]
+  },
+  {
+    "match_id": 12709601,
+    "date": "2026-08-24T06:02:53+00:00",
+    "winner": "bing_pigs",
+    "winner_rank_before": 27,
+    "winner_elo_gain": 20,
+    "loser": "BeefSalad",
+    "loser_rank_before": 22,
+    "rank_gap": 5,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854745719"
+    ]
+  },
+  {
+    "match_id": 12721066,
+    "date": "2026-08-24T15:22:11+00:00",
+    "winner": "Pheinberg",
+    "winner_rank_before": 74,
+    "winner_elo_gain": 20,
+    "loser": "Frolde",
+    "loser_rank_before": 65,
+    "rank_gap": 9,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855130766"
+    ]
+  },
+  {
+    "match_id": 12713356,
+    "date": "2026-08-24T10:04:10+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 20,
+    "loser": "pigswitch",
+    "loser_rank_before": 82,
+    "rank_gap": 100,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12721477,
+    "date": "2026-08-24T15:36:20+00:00",
+    "winner": "Alpha_1644",
+    "winner_rank_before": 174,
+    "winner_elo_gain": 20,
+    "loser": "Birdeyyy",
+    "loser_rank_before": 104,
+    "rank_gap": 70,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117588"
+    ]
+  },
+  {
+    "match_id": 12728098,
+    "date": "2026-08-24T19:30:25+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 20,
+    "loser": "L0ckdawn",
+    "loser_rank_before": 113,
+    "rank_gap": 69,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12724247,
+    "date": "2026-08-24T17:14:56+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 20,
+    "loser": "iluappi",
+    "loser_rank_before": 137,
+    "rank_gap": 45,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12729567,
+    "date": "2026-08-24T20:23:29+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 19,
+    "loser": "DARVY__X1",
+    "loser_rank_before": 28,
+    "rank_gap": 7,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855352051"
+    ]
+  },
+  {
+    "match_id": 12721664,
+    "date": "2026-08-24T15:42:30+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 19,
+    "loser": "Gabryll",
+    "loser_rank_before": 32,
+    "rank_gap": 3,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855143341"
+    ]
+  },
+  {
+    "match_id": 12720515,
+    "date": "2026-08-24T15:03:05+00:00",
+    "winner": "v_strid",
+    "winner_rank_before": 35,
+    "winner_elo_gain": 19,
+    "loser": "Gabryll",
+    "loser_rank_before": 32,
+    "rank_gap": 3,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855143341"
+    ]
+  },
+  {
+    "match_id": 12721739,
+    "date": "2026-08-24T15:44:20+00:00",
+    "winner": "AstraF",
+    "winner_rank_before": 102,
+    "winner_elo_gain": 19,
+    "loser": "Frolde",
+    "loser_rank_before": 65,
+    "rank_gap": 37,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12718075,
+    "date": "2026-08-24T13:35:40+00:00",
+    "winner": "_Pasha1337_",
+    "winner_rank_before": 87,
+    "winner_elo_gain": 19,
+    "loser": "Pheinberg",
+    "loser_rank_before": 74,
+    "rank_gap": 13,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855130766"
+    ]
+  },
+  {
+    "match_id": 12721375,
+    "date": "2026-08-24T15:32:46+00:00",
+    "winner": "AstraF",
+    "winner_rank_before": 102,
+    "winner_elo_gain": 19,
+    "loser": "nolw",
+    "loser_rank_before": 86,
+    "rank_gap": 16,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855117871"
+    ]
+  },
+  {
+    "match_id": 12727946,
+    "date": "2026-08-24T19:23:58+00:00",
+    "winner": "TheLandSharkJeff",
+    "winner_rank_before": 100,
+    "winner_elo_gain": 19,
+    "loser": "Bodek",
+    "loser_rank_before": 93,
+    "rank_gap": 7,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855264277"
+    ]
+  },
+  {
+    "match_id": 12713915,
+    "date": "2026-08-24T10:33:33+00:00",
+    "winner": "blobserr",
+    "winner_rank_before": 180,
+    "winner_elo_gain": 19,
+    "loser": "ItzUser",
+    "loser_rank_before": 133,
+    "rank_gap": 47,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854937836"
+    ]
+  },
+  {
+    "match_id": 12716664,
+    "date": "2026-08-24T12:39:58+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 18,
+    "loser": "_Pasha1337_",
+    "loser_rank_before": 87,
+    "rank_gap": 95,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12714028,
+    "date": "2026-08-24T10:39:56+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 18,
+    "loser": "shrddr",
+    "loser_rank_before": 126,
+    "rank_gap": 56,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12713090,
+    "date": "2026-08-24T09:49:40+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 18,
+    "loser": "priffie",
+    "loser_rank_before": 149,
+    "rank_gap": 33,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547",
+      "https://www.twitch.tv/videos/2854998393"
+    ]
+  },
+  {
+    "match_id": 12724436,
+    "date": "2026-08-24T17:22:07+00:00",
+    "winner": "TheLandSharkJeff",
+    "winner_rank_before": 100,
+    "winner_elo_gain": 17,
+    "loser": "Frolde",
+    "loser_rank_before": 65,
+    "rank_gap": 35,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855264277"
+    ]
+  },
+  {
+    "match_id": 12717582,
+    "date": "2026-08-24T13:16:40+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 17,
+    "loser": "xFray_",
+    "loser_rank_before": 113,
+    "rank_gap": 69,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547"
+    ]
+  },
+  {
+    "match_id": 12713630,
+    "date": "2026-08-24T10:18:51+00:00",
+    "winner": "gothy666",
+    "winner_rank_before": 182,
+    "winner_elo_gain": 17,
+    "loser": "lenged",
+    "loser_rank_before": 150,
+    "rank_gap": 32,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2855029547",
+      "https://www.twitch.tv/videos/2855014930"
+    ]
+  },
+  {
+    "match_id": 12708917,
+    "date": "2026-08-24T05:20:12+00:00",
+    "winner": "Feinberg",
+    "winner_rank_before": 7,
+    "winner_elo_gain": 16,
+    "loser": "BadGamer",
+    "loser_rank_before": 4,
+    "rank_gap": 3,
+    "vod_urls": [
+      "https://www.twitch.tv/videos/2854935287"
+    ]
+  }
+]
